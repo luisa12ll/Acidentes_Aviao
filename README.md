@@ -6,7 +6,7 @@
 # ✈️ Data Pipeline & Air Accident Analysis (1908–2023)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge&logo=appveyor" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Concluido-green?style=for-the-badge&logo=appveyor" alt="Status">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
